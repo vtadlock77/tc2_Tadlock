@@ -1,0 +1,17 @@
+---
+title: "Portfolio"
+---
+
+::: {.content-visible when-format="html"}  
+
+* [A basic html webpage of book reviews](https://vtadlock77.github.io/Viktoria-Webpage-Project/)  
+* [A powerpoint of the history of technical communication](https://docs.google.com/presentation/d/1uwKOLB0yjxvmom6WjxQgJZA32eWGjihf/edit?usp=drive_link&ouid=109476302970930981792&rtpof=true&sd=true)  
+* [An academic thesis on intergenerational communication conflict resolution](https://docs.google.com/document/d/1OTWl54Lhn3bxzG3zAq9sr56AWBy8aHnNwJtpZP7FwIk/edit?usp=drive_link)  
+
+:::  
+
+::: {.content-visble when-format="pdf", "pptx", "docx"}
+
+Links to Viktoria's portfolio pieces are only available in the html output.
+
+:::

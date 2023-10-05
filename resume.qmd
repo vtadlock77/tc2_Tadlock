@@ -1,0 +1,15 @@
+---
+title: "Viktoria R. Tadlock"
+---
+
+(262)-226-0598 · vtadlock77@gmail.com
+
+{{< include _resumechunks/_education.qmd >}}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_osi.qmd >}}
+{{< include _resumechunks/_latis.qmd >}}
+{{< include _resumechunks/_mpc.qmd >}}
+{{< include _resumechunks/_muraj.qmd >}}
+{{< include _resumechunks/_skills.qmd >}}
