@@ -2,9 +2,13 @@
 title: "Viktoria R. Tadlock"
 ---
 
+## Contact Information  
+
 (262)-226-0598 · vtadlock77@gmail.com
 
 {{< include _resumechunks/_education.qmd >}}
+
+::: {.content-visible when-format="html"}
 
 ## Work & Volunteer Experience  
 
@@ -13,3 +17,51 @@ title: "Viktoria R. Tadlock"
 {{< include _resumechunks/_mpc.qmd >}}
 {{< include _resumechunks/_muraj.qmd >}}
 {{< include _resumechunks/_skills.qmd >}}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_osi.qmd >}}
+{{< include _resumechunks/_latis.qmd >}}
+{{< include _resumechunks/_mpc.qmd >}}
+{{< include _resumechunks/_muraj.qmd >}}
+{{< include _resumechunks/_skills.qmd >}}
+
+:::
+
+::: {.content-visible when-format="docx"}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_osi.qmd >}}
+{{< include _resumechunks/_latis.qmd >}}
+{{< include _resumechunks/_mpc.qmd >}}
+{{< include _resumechunks/_muraj.qmd >}}
+{{< include _resumechunks/_skills.qmd >}}
+
+:::
+
+::: {.content-hidden unless-format="pptx"}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_osi.qmd >}}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_latis.qmd >}}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_mpc.qmd >}}
+
+## Work & Volunteer Experience  
+
+{{< include _resumechunks/_muraj.qmd >}}
+
+{{< include _resumechunks/_skills.qmd >}}
+
+:::

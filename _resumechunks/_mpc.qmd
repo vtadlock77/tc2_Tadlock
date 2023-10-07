@@ -2,6 +2,7 @@
 ### IPUMS IHGIS Markup Team Assistant (September 2020--May 2022)
  
  *Minnesota Population Center* (Minneapolis, MN)  
+ 
  * Tagged metadata for international census data tables for 100 countries for the purpose of creating publicly available data  
 * Applied technical experience in Excel and the IPUMS database to access markup tables and assess markup accuracy for data in various languages  
 * Tracked progress of dozens of data sets across a multistage process utilizing workflow tracking tools, such as Trello

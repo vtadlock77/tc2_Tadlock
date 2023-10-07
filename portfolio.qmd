@@ -10,7 +10,19 @@ title: "Portfolio"
 
 :::  
 
-::: {.content-visble when-format="pdf", "pptx", "docx"}
+::: {.content-hidden unless-format="pdf"}
+
+Links to Viktoria's portfolio pieces are only available in the html output.
+
+:::
+
+::: {.content-hidden unless-format="docx"}
+
+Links to Viktoria's portfolio pieces are only available in the html output.
+
+:::
+
+::: {.content-hidden unless-format="pptx"}
 
 Links to Viktoria's portfolio pieces are only available in the html output.
 
