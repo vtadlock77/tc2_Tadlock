@@ -1,0 +1,8 @@
+
+### Technical Writer (June 2022--present)
+ 
+ *Open Systems International, Incorporated* (Medina, MN)  
+ 
+ * Collaborates with SME teams in order to create and release helpful user-facing documentation, such as user’s manuals and configuration guides, of products  
+* Reviews customer release notes and OSI-PEDIA, a web platform for documentation for customers  
+* Provides editing, formatting, and other support via Madcap Flare using Github as a source control

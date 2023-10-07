@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Viktoria R. Tadlock",
+    "section": "",
+    "text": "(262)-226-0598 · vtadlock77@gmail.com"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Viktoria R. Tadlock",
+    "section": "Education",
+    "text": "Education\nUniversity of Minnesota-Twin Cities (Minneapolis, MN)\nBachelor of Arts, Communications; Minor, Technical Writing (May, 2022)\nLatin Honors, Summa Cum Laude; High Distinction (GPA: 3.907)\nUniversity of Minnesota-Twin Cities (Minneapolis, MN)\nMaster of Science, Scientific & Technical Communication (Anticipated July 2025)"
+  },
+  {
+    "objectID": "resume.html#work-volunteer-experience",
+    "href": "resume.html#work-volunteer-experience",
+    "title": "Viktoria R. Tadlock",
+    "section": "Work & Volunteer Experience",
+    "text": "Work & Volunteer Experience\n\nTechnical Writer (June 2022–present)\nOpen Systems International, Incorporated (Medina, MN)\n* Collaborates with SME teams in order to create and release helpful user-facing documentation, such as user’s manuals and configuration guides, of products\n* Reviews customer release notes and OSI-PEDIA, a web platform for documentation for customers\n* Provides editing, formatting, and other support via Madcap Flare using Github as a source control\n\n\nStudent Research Assistant (October 2019–May 2022)\nLiberal Arts Technology & Innovation Services (Minneapolis, MN)\n* Assisted in developing 50 web-based surveys and experiments, as well as prioritizing other technical projects, per semester\n* Developed technical knowledge with various tools, including Qualtrics, REDCap, and Atom\n* Managed invitations and registrations, as well as post-workshop video editing for LATIS webinar lecture series each semester\n\n\nIPUMS IHGIS Markup Team Assistant (September 2020–May 2022)\nMinnesota Population Center (Minneapolis, MN)\n* Tagged metadata for international census data tables for 100 countries for the purpose of creating publicly available data\n* Applied technical experience in Excel and the IPUMS database to access markup tables and assess markup accuracy for data in various languages\n* Tracked progress of dozens of data sets across a multistage process utilizing workflow tracking tools, such as Trello\n\n\nTraining Editor (October 2020–July 2022)\nMinnesota Undergraduate Research & Academic Journal (Minneapolis, MN)\n* Created a Canvas page and oversees the progress of approximately 65 users in order to train incoming journal reviews\n* Collaborated with executive board in biweekly meetings in order to maintain the academic and editorial integrity of MURAJ\n* Lead section editing for over 70 papers as reviewers work to edit papers in a double blind review"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Viktoria R. Tadlock",
+    "section": "Skills",
+    "text": "Skills\n\nTechnical: database management, source control management, web work with HTML, XML, and CSS, survey design\n\nComputer: proficient in MS Office, Google Suite, and social media\n\nProgramming: experience with C++, C#\n\nWriting: academic writing, technical writing, note-taking, copyediting, researching, interviewing"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "A basic html webpage of book reviews\n\nA powerpoint of the history of technical communication\n\nAn academic thesis on intergenerational communication conflict resolution\n\n::: {.content-visble when-format=“pdf”, “pptx”, “docx”}\nLinks to Viktoria’s portfolio pieces are only available in the html output.\n:::"
+  }
+]
